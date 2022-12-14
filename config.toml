@@ -1,4 +1,4 @@
-baseURL = 'https://VincentRossignol.github.io/hugo'
+baseURL = 'https://vincentrossignol.github.io/hugo'
 languageCode = 'en-us'
 title = 'My first documentation'
 theme = 'ananke'
