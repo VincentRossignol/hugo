@@ -1,0 +1,4 @@
+baseURL = 'http://Study1Airbus.org/'
+languageCode = 'en-us'
+title = 'My first documentation'
+theme = 'ananke'
